@@ -16,11 +16,11 @@ Sú to nasledovné údaje:
  - precipitation_hours - dĺžka trvania zrážok celkom [s]
  - daylight_duration - obdobie dňa kedy je svetlo [s] 
  - sunshine_duration - obdobie dňa kedy je slnenčný svit [s]
-   # Vypočítavané veličiny pre vyššie spomenuté mestá 
-   # Bratislava": (48.1486, 17.1077) a Victoria": (48.4284, -123.3656)
-   # Údaje pre obe mestá budú zakreslené do grafov pre porovnanie údajov
-   # oboch vyššie spomenutých miest
-  Srel: pomer trvania slnečného svitu a dĺžky dňa v percentách
-  GDD: výpočet rastových dní ako rozdiel priemernej teploty a bázy 5°C (minimum 0)
-  Rdi: intenzita zrážok (množstvo / čas), ak pršalo viac ako 0 hodín
-  Di: Index vetra vynásobený slnečným svitom prevedeným na hodiny
+   ## Vypočítavané veličiny pre vyššie spomenuté mestá 
+   ## Bratislava": (48.1486, 17.1077) a Victoria": (48.4284, -123.3656)
+   ## Údaje pre obe mestá budú zakreslené do grafov pre porovnanie údajov
+   ## oboch vyššie spomenutých miest
+  - Srel: pomer trvania slnečného svitu a dĺžky dňa v percentách
+  - GDD: výpočet rastových dní ako rozdiel priemernej teploty a bázy 5°C (minimum 0)
+  - Rdi: intenzita zrážok (množstvo / čas), ak pršalo viac ako 0 hodín
+  - Di: Index vetra vynásobený slnečným svitom prevedeným na hodiny
